@@ -1,0 +1,17 @@
+Smart Email Classifier System
+
+Problem: Build an AI system that automatically categorizes incoming emails (spam/ham, priority levels, or departments).
+
+Skills Demonstrated:
+
+AI/ML: Implement text preprocessing, feature extraction (TF-IDF), and train a classification model (Naive Bayes or SVM)
+
+Critical Thinking: Analyze which features matter most for email classification, handle class imbalance
+
+Problem Solving: Deal with text preprocessing challenges, choose appropriate algorithms
+
+Modular Structure: Separate data preprocessing, feature engineering, model training, and prediction modules
+
+Clear Architecture: Design clean pipeline from raw email → preprocessed text → features → prediction
+
+Deliverable: Python script with modular functions that can classify new emails with confidence scores. 
